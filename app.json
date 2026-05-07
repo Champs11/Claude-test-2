@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "ClaimSafe",
+    "slug": "claimsafe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1B4F9B"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.claimsafe.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1B4F9B"
+      },
+      "package": "com.claimsafe.app"
+    }
+  }
+}
